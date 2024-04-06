@@ -1,4 +1,4 @@
-# genai-design-eclinicscheduler
+# eclinic-scheduler
 
 I've conceptualized an idea about "Online Appointment Schedule/Pre-Registration for Clinics' Patients" as part of the Peer-graded Assignment - Week 4 | Design Using Gen AI.
 
